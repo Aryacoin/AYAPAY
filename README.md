@@ -10,9 +10,13 @@ Instructions for setup using the files -
 AYA PAY example setup
 
 1- import table.sql in your database
+
 2- set user host and password of your database in config file
+
 3- set your api key in config file also IPN file
+
 4- set set ipn file located url in Create deposit address founction in config file **IMPORTANT
+
 5- for test run testpage.php
 
 // after run the testpage you should have in (user_coin_address) table in database address and user id, if you change coin type to (LTC,BTC,DOGE) also will generete address for userid 1.
